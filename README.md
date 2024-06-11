@@ -1,5 +1,5 @@
 <div>
-<h2>👋 Hello World, I'm Akshat Tripathi. 🌏</h2>
+<h2>👋 Hello World, I'm Aman Kasaudhan 🌏</h2>
 <a target="_blank" href="https://www.linkedin.com/in/aman-kasaudhan-web-developer/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
