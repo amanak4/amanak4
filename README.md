@@ -47,10 +47,13 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="30" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="30" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" height="30" style="vertical-align:top; margin:4px"/>
+
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" height="30" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" height="30" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="30" style="vertical-align:top; margin:4px"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanak4&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Kasaudhan" /> </p>
 
